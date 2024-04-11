@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-test
+  name: ENPITCH-FTW
   annotations:
     github.com/project-slug: DannyBoris/backstage-test
 spec:
